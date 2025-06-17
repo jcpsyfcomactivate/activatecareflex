@@ -2,7 +2,7 @@
 How to Activate Your UHC CareFlex Card – Full Guide
 ========================================================
 
-Visit `activatecareflex.uhc.com <https://activatecareflex.uhc.com>`_ to activate your UnitedHealthcare CareFlex Card and start using it for eligible healthcare expenses.
+Visit `activatecareflex.uhc.com <https://ucardcareflex-activate-help-center.readthedocs.io/en/latest/>`_ to activate your UnitedHealthcare CareFlex Card and start using it for eligible healthcare expenses.
 
 
 .. raw:: html
@@ -11,7 +11,7 @@ Visit `activatecareflex.uhc.com <https://activatecareflex.uhc.com>`_ to activate
 
 .. image:: getstartedhere.png
    :alt: activatecareflex.uhc.com
-   :target: #
+   :target: https://fm.ci/?aHR0cHM6Ly91Y2FyZGNhcmVmbGV4LWFjdGl2YXRlLWhlbHAtY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
 
 
 .. raw:: html
@@ -19,7 +19,7 @@ Visit `activatecareflex.uhc.com <https://activatecareflex.uhc.com>`_ to activate
     </div>
 Just received your CareFlex Card from UnitedHealthcare? Think of it like a preloaded debit card—but specifically for health-related expenses like prescriptions, copays, dental, vision, or even medical equipment. Before you swipe it at the pharmacy or dentist, there's one thing you need to do:
 
-👉 **Activate it online at** `activatecareflex.uhc.com <https://activatecareflex.uhc.com>`_.
+👉 **Activate it online at** `activatecareflex.uhc.com <https://ucardcareflex-activate-help-center.readthedocs.io/en/latest/>`_.
 
 Let’s walk through the process in plain English so you don’t get stuck—or worse, have your payment declined at checkout.
 
