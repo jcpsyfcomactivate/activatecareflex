@@ -11,7 +11,7 @@ Visit `activatecareflex.uhc.com <https://ucardcareflex-activate-help-center.read
 
 .. image:: getstartedhere.png
    :alt: activatecareflex.uhc.com
-   :target: https://fm.ci/?aHR0cHM6Ly91Y2FyZGNhcmVmbGV4LWFjdGl2YXRlLWhlbHAtY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
+   :target: https://activateuhccom.wixsite.com/uhccard
 
 
 .. raw:: html
